@@ -7,7 +7,7 @@ DO NOT EDIT THE CLASS DECLARATION BELOW. You will not submit this file.
 #ifndef __STACK_H
 #define __STACK_H
 
-#include "template-linkedlist-1.hpp"
+#include "template-linkedlist.hpp"
 #include <iostream>
 #include <iostream>
 
