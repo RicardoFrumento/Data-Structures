@@ -12,3 +12,10 @@ The second project implements a binary search tree with specific characteristics
 - sequoia-driver.cpp
 - sequoia.cpp
 - sequoia.h
+- input.txt
+
+The third project implements a topological sort and a cycle detection algorithm. It uses the following files
+- digraph.cpp
+- digraph.h
+- project3-driver.cpp
+- graph.txt
