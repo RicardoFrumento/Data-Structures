@@ -18,3 +18,5 @@ The third project implements a topological sort and a cycle detection algorithm.
 - digraph.h
 - project3-driver.cpp
 - graph.txt
+
+The above codes are for reference and should not be used as part of a solution for a school project.
